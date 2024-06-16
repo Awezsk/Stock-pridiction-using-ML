@@ -53,7 +53,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/tesla-stock-prediction.git
+    git clone https://github.com/Awezsk/Stock-pridiction-using-ML.git
     cd tesla-stock-prediction
     ```
 
